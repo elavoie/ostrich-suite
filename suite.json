@@ -9,6 +9,6 @@
         "matlab-concat": "git://github.com:/Sable/ostrich-matlab-concatenate-compiler.git"
     },
     "environments": {
-        "matlab-vm": "git://github.com:/Sable/ostrich-matlab-vm-environment.git"   
+        "matlab-vm": "git://github.com:/Sable/ostrich-matlab-environment.git"   
     } 
 }
