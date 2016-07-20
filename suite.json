@@ -4,11 +4,5 @@
     "version": "2.0.0",
     "benchmarks" : {
         "babai": "git://github.com:/Sable/babai-benchmark.git"
-    },
-    "compilers": {
-        "matlab-concat": "git://github.com:/Sable/ostrich-matlab-concatenate-compiler.git"
-    },
-    "environments": {
-        "matlab-vm": "git://github.com:/Sable/ostrich-matlab-vm-environment.git"   
-    } 
+    }
 }
